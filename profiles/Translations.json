@@ -1,0 +1,7 @@
+{
+	"http_username": "Please, pick a login for router admin panel: ",
+	"http_passwd": "Please, pick a password for router admin panel: ",
+	"http_passwd_confirm": "Confirm your password: ",
+	"wl0_ssid": "Pick a name for your network: ",
+	"wl0_wpa_psk": "Please, pick a password for your network: "
+}

@@ -1,0 +1,14 @@
+{
+	"language": "russian",
+
+	"wl0_mode":	"ap",
+	"wl0_net_mode":	"mixed",
+	"wl0_ssid":	"Custom",
+	"wl0_channel": "0",
+	"wl0_nbw": "20",
+	"wl0_closed": "0",
+	"wl0_security_mode": "psk psk2",
+	"wl0_crypto": "aes",
+	"wl0_wpa_psk": "Custom",
+	"wl0_wpa_gtk_rekey": "3600"
+}
